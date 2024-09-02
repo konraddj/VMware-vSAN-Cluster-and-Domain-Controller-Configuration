@@ -11,18 +11,24 @@ The goal of this SOP is to deliver a detailed, step-by-step guide for deploying 
 
 1. **Prerequisites Verification**
    - Confirm hardware and resource requirements.
-3. **Domain Controller Setup**
+
+2. **Domain Controller Setup**
    - Configure a server as a Domain Controller.
-5. **VMware ESXi Installation**
+
+3. **VMware ESXi Installation**
    - Install VMware ESXi on three hosts.
-7. **vCenter Configuration**
+
+4. **vCenter Configuration**
    - Install and configure VMware vCenter.
-9. **Updates and Networking**
+
+5. **Updates and Networking**
     - Apply necessary updates and configure network settings.
-11. **vSAN Implementation**
-   - Set up and configure VMware vSAN for shared storage.
-13. **Verification Testing**
-   - Perform tests to ensure the environment is properly configured and functional.
+
+6. **vSAN Implementation**
+    - Set up and configure VMware vSAN for shared storage.
+
+7. **Verification Testing**
+    - Perform tests to ensure the environment is properly configured and functional.
 
 ## Results
 
