@@ -1,5 +1,4 @@
-# Build a VMware Cluster with vSAN - SOP
-
+# Build a VMware Cluster with vSAN
 ## Overview
 
 This Standard Operating Procedure (SOP) provides a comprehensive guide for building and configuring a VMware cluster with vSAN. It is intended for technical personnel responsible for setting up a production environment with VMware vSphere and vSAN technologies.
